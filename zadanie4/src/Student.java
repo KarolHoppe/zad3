@@ -20,6 +20,7 @@ public class Student {
         this.email = email;
         this.adress = adress;
         this.ocena = ocena;
+
     }
 
 }
