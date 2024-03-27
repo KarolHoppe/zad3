@@ -1,4 +1,4 @@
 public class StudentGroup {
-String NAME;
-String[]Student;
+String nazwaGrupy;
+
 }
